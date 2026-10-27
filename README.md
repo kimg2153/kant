@@ -32,6 +32,6 @@
 
 git init
 git config --lis
-git config --global user.email "mylije@gmail.com"
+git config --global user.email "kimg2153@gmail.com"
 ```
 
